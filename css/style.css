@@ -1,0 +1,115 @@
+body{
+	background:linear-gradient(white 10%,lightblue 110%);
+}
+
+.navbar{
+	background-color:#3B5998;
+}
+
+#fb{
+	color:white;
+	margin-left:8%;
+}
+#div_right{
+	margin-right:10%;
+}
+#leb1{
+	color:white;
+}
+#leb2{
+	color:white;
+}
+#div1{
+	margin-left:-78%;
+}
+#div2{
+	margin-top:-29.5%;
+}
+#button{
+	background-color:skyblue;
+}
+#left{
+	margin-left:7%;
+	margin-top:5%;
+}
+#fb_line{
+	font-weight:bold;
+	color:blue; 	
+	font-size:22px;
+	margin-top:-2%;
+}
+#account{
+	float:right;
+	font-size:45px;
+	font-weight:bold;
+	margin-top:-25%;
+	margin-right:17%;
+	font-family:calibri;
+}
+#signup{
+	margin-right:10%;
+	
+}
+#input1{
+	float:right;
+	width:17.5%;
+	margin-right:18.5%;
+	margin-top:-18%;
+	
+}
+#input2{
+	float:right;
+	width:17.5%;
+	margin-top:-18%;
+	
+}
+#input3{
+	float:right;
+	width:36%;
+	margin-right:0%;
+	margin-top:-14%;
+}
+#input4{
+	float:right;
+	width:36%;
+	margin-top:-10%;
+}
+#dob{
+	float:right;
+	margin-top:-5%;
+	margin-right:29.7%;
+}
+
+#link{
+	float:right;
+	margin-right:3.5%;
+	margin-top:-3.6%;
+	font-size:80%;
+}
+a{
+	text-decoration:none;
+}
+#gen{
+	margin-left:-50%;
+	
+}	
+#male{
+	font-weight:bold;
+	font-size:20px;
+}
+
+#btn1{
+	margin-left:-50%;
+	margin-top:2%;
+	width:90%;
+}
+#content{
+	margin-left:-50%;
+	margin-top:2%;
+}
+#sn{
+	font-weight:bold;
+	font-size:24px;
+	font-family:calibri;
+	color:white;
+}
